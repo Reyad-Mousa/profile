@@ -45,6 +45,9 @@
     flex-direction: column;
     text-align: center;
   }
+    .popup-box img {
+    max-width: 380px;}
+  
   .features {
     display: grid;
     justify-content: center;
